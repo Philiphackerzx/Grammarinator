@@ -3,9 +3,9 @@ Check Grammar Mistakes
 
 # Installation
 
-`pkg install git -y` <br/>
-`git clone https://github.com/Philiphackerzx/Grammarinator.git` <br/>
-`cd Grammarinator` <br/>
+`pkg install git -y` <br/><br/>
+`git clone https://github.com/Philiphackerzx/Grammarinator.git` <br/><br/>
+`cd Grammarinator` <br/><br/>
 `sh install.sh`
 
 # How to use
