@@ -1,5 +1,5 @@
 # Grammarinator
-Check Grammar Mistakes
+Check Grammar Mistakes For Termux
 
 # Installation
 
